@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekChartView">
+        <attr name="wcv_background_color" format="color"/>
+        <attr name="wcv_text_color" format="color"/>
+        <attr name="wcv_text_size" format="dimension"/>
+        <attr name="wcv_line_color" format="color"/>
+        <attr name="wcv_start_gradient_color" format="color"/>
+        <attr name="wcv_end_gradient_color" format="color"/>
+        <attr name="wcv_line_size" format="dimension"/>
+    </declare-styleable>
+</resources>
